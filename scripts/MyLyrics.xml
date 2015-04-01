@@ -30,7 +30,7 @@
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>https://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -113,7 +113,7 @@ Changes relevant for skinners:
 * Add: allow skinner to define #MyLyrics.BlacklistedControlIDs in skin file, if any of those is focused plugin SELECT action (lrc pick select or lrc edit tag line) won't be executed
 * Add: reused control id 50 and renamed to CONTROL_TAGPICKBUTTON. button can now be used in LRC pick to pick lrc or in LRC edit to tag line. it does not have to be defined in skin file at all</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1500.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1500.MPE1</OnlineLocation>
         <ReleaseDate>2010-03-14T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -181,7 +181,7 @@ Changes relevant for skinners:
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -238,7 +238,7 @@ Changes and fixes since version 1.5.0.0
 * and some smaller fixes
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1510.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1510.MPE1</OnlineLocation>
         <ReleaseDate>2010-08-04T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -311,7 +311,7 @@ Changes and fixes since version 1.5.0.0
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -363,7 +363,7 @@ Changes and fixes since version 1.5.1.0
 - Rem: LyricWiki didn't work and could not be fixed.
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1520.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1520.MPE1</OnlineLocation>
         <ReleaseDate>2010-10-03T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -436,7 +436,7 @@ Changes and fixes since version 1.5.1.0
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -490,7 +490,7 @@ Changes and fixes since version 1.5.1.0
 - Fix: Lyrics007 which didn't return valid result.
 - Rem: LyricWiki didn't work and could not be fixed.</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1530.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1530.MPE1</OnlineLocation>
         <ReleaseDate>2010-10-05T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -563,7 +563,7 @@ Changes and fixes since version 1.5.1.0
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -614,7 +614,7 @@ Changes and fixes since version 1.5.3.0
 - Fix: LRC tagging offset value wasn't saved in version 1.5.2.0
 - Fix: Minor fixes in configuration</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1540.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1540.MPE1</OnlineLocation>
         <ReleaseDate>2010-11-21T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -687,7 +687,7 @@ Changes and fixes since version 1.5.3.0
         <Author>mackey</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -736,7 +736,7 @@ Compatible with MediaPortal 1.2.0 beta
 Changes and fixes since version 1.5.5.0
 - Add: Now compatible with MediaPotal 1.2.0 beta </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1600.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1600.MPE1</OnlineLocation>
         <ReleaseDate>2011-03-09T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -809,7 +809,7 @@ Changes and fixes since version 1.5.5.0
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -860,7 +860,7 @@ Changes and fixes since version 1.5.3.0
 - Fix: LRC tagging offset value wasn't saved in version 1.5.2.0
 - Fix: Minor fixes in configuration</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1550.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1550.MPE1</OnlineLocation>
         <ReleaseDate>2010-11-21T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -933,7 +933,7 @@ Changes and fixes since version 1.5.3.0
         <Author>mackey</Author>
         <HomePage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>5</Minor>
@@ -984,7 +984,7 @@ Changes and fixes since version 1.5.3.0
 - Fix: LRC tagging offset value wasn't saved in version 1.5.2.0
 - Fix: Minor fixes in configuration</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1550.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1550.MPE1</OnlineLocation>
         <ReleaseDate>2010-11-21T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -1077,7 +1077,7 @@ Changes and fixes since version 1.5.3.0
         <Author>mackey</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>6</Minor>
@@ -1126,7 +1126,7 @@ Compatible with MediaPortal 1.2.0 beta
 Changes and fixes since version 1.6.1.0
 - Add: Support for Shiron.net (Hebrew site)</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics_1611.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics_1611.MPE1</OnlineLocation>
         <ReleaseDate>2011-03-09T19:49:03</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
@@ -1214,7 +1214,7 @@ Changes and fixes since version 1.6.1.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -1271,14 +1271,14 @@ Screens:
 Compatible with MediaPortal 1.2.0 and 1.3.0 alpha
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.0.67.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.0.67.MPE1</OnlineLocation>
         <ReleaseDate>2012-08-31T17:38:58.6092+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -1290,7 +1290,7 @@ Compatible with MediaPortal 1.2.0 and 1.3.0 alpha
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -1359,7 +1359,7 @@ Compatible with MediaPortal 1.2.0 and 1.3.0 alpha
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -1409,14 +1409,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.1.85.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.1.85.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-18T21:14:26.9034339+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -1428,7 +1428,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -1497,7 +1497,7 @@ Compatible with MediaPortal 1.4.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -1547,14 +1547,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.1.92.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.1.92.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-18T21:14:26.9034339+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -1566,7 +1566,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -1654,7 +1654,7 @@ Compatible with MediaPortal 1.4.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -1704,14 +1704,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.1.100.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.1.100.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-26T00:24:53.0260531+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -1723,7 +1723,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -1811,7 +1811,7 @@ Compatible with MediaPortal 1.4.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -1861,14 +1861,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.1.103.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.1.103.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-26T01:23:47.3712061+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -1880,7 +1880,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -1968,7 +1968,7 @@ Compatible with MediaPortal 1.4.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -2022,14 +2022,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.2.113.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.2.113.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-27T01:32:20.0923294+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2041,7 +2041,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -2129,7 +2129,7 @@ Compatible with MediaPortal 1.4.0
         <Author>mackey (BennieBoy, SilentException, Søren, yoavain)</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>7</Minor>
@@ -2186,14 +2186,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.7.3.118.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.7.3.118.MPE1</OnlineLocation>
         <ReleaseDate>2013-06-28T18:46:28.7622831+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2205,7 +2205,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -2293,7 +2293,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>8</Minor>
@@ -2376,14 +2376,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.8.0.227.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.8.0.227.MPE1</OnlineLocation>
         <ReleaseDate>2013-07-26T12:06:51.0097581+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2395,7 +2395,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -2483,7 +2483,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>8</Minor>
@@ -2566,14 +2566,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.8.0.230.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.8.0.230.MPE1</OnlineLocation>
         <ReleaseDate>2013-08-04T11:12:47.4218245+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2585,7 +2585,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -2673,7 +2673,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>8</Minor>
@@ -2757,14 +2757,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.8.0.233.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.8.0.233.MPE1</OnlineLocation>
         <ReleaseDate>2013-08-16T02:49:40.1884956+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2776,7 +2776,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -2883,7 +2883,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>9</Minor>
@@ -2972,14 +2972,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.9.0.249.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.9.0.249.MPE1</OnlineLocation>
         <ReleaseDate>2014-01-09T08:28:03.6324189+02:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -2991,7 +2991,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -3098,7 +3098,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>9</Minor>
@@ -3192,14 +3192,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/files/MyLyrics-1.9.1.256.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.9.1.256.MPE1</OnlineLocation>
         <ReleaseDate>2014-01-20T22:30:41.2423653+02:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -3211,7 +3211,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -3318,7 +3318,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>9</Minor>
@@ -3417,14 +3417,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-1.9.5.262.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.9.5.262.MPE1</OnlineLocation>
         <ReleaseDate>2014-03-03T07:41:18.4181993+02:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -3436,7 +3436,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -3543,7 +3543,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>9</Minor>
@@ -3646,14 +3646,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-1.9.7.279.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.9.7.279.MPE1</OnlineLocation>
         <ReleaseDate>2014-04-28T22:52:10.0353214+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -3665,7 +3665,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -3772,7 +3772,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
           <Minor>9</Minor>
@@ -3879,14 +3879,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-1.9.8.284.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-1.9.8.284.MPE1</OnlineLocation>
         <ReleaseDate>2014-06-01T18:43:17.0421288+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -3898,7 +3898,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -4005,7 +4005,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>2</Major>
           <Minor>0</Minor>
@@ -4116,14 +4116,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-2.0.0.289.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-2.0.0.289.MPE1</OnlineLocation>
         <ReleaseDate>2014-07-01T23:32:45.0804886+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -4135,7 +4135,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -4242,7 +4242,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>2</Major>
           <Minor>1</Minor>
@@ -4357,14 +4357,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-2.1.0.294.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-2.1.0.294.MPE1</OnlineLocation>
         <ReleaseDate>2014-09-30T20:17:21.7827145+03:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -4376,7 +4376,7 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
@@ -4483,7 +4483,7 @@ Compatible with MediaPortal 1.4.0
         <Author>yoavain</Author>
         <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
         <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
-        <UpdateUrl>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/MyLyrics.xml</UpdateUrl>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
         <Version>
           <Major>2</Major>
           <Minor>2</Minor>
@@ -4602,14 +4602,14 @@ Screens:
 Compatible with MediaPortal 1.4.0
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>https://mediaportal-mylyrics.googlecode.com/svn/trunk/builds/MyLyrics-2.2.0.300.MPE1</OnlineLocation>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-2.2.0.300.MPE1</OnlineLocation>
         <ReleaseDate>2014-12-31T19:17:53.4732115+02:00</ReleaseDate>
         <Tags>mylyrics,lyrics,lrcs,music</Tags>
         <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://mediaportal-mylyrics.googlecode.com/svn/trunk/scripts/icon.bmp</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
@@ -4621,7 +4621,258 @@ Compatible with MediaPortal 1.4.0
  If have .dll extension used like MP plugin configuration</Description>
             </SectionParam>
             <SectionParam Name="Online Screenshots">
-              <Value>https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide02.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/DefaultWide03-LRC.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default01.jpg;https://mediaportal-mylyrics.googlecode.com/svn/trunk/Screenshots/Default02.jpg</Value>
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
+              <ValueType>String</ValueType>
+              <Description>Online stored screenshot urls separated by ; </Description>
+            </SectionParam>
+            <SectionParam Name="Force to uninstall on update">
+              <Value>YES</Value>
+              <ValueType>Bool</ValueType>
+              <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+      </GeneralInfo>
+      <UniqueFileList>
+        <Items />
+      </UniqueFileList>
+      <ProjectSettings>
+        <FolderGroups />
+      </ProjectSettings>
+      <IsSkin>false</IsSkin>
+    </PackageClass>
+    <PackageClass>
+      <Version>2.0</Version>
+      <Groups>
+        <Items>
+          <GroupItem Name="Default">
+            <DisplayName>Default</DisplayName>
+            <DefaulChecked>true</DefaulChecked>
+            <Description>Default</Description>
+            <Files>
+              <Items />
+            </Files>
+          </GroupItem>
+        </Items>
+      </Groups>
+      <Sections>
+        <Items />
+      </Sections>
+      <Dependencies>
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>1</Minor>
+              <Build>6</Build>
+              <Revision>27644</Revision>
+            </MaxVersion>
+            <WarnOnly>false</WarnOnly>
+            <Message>This version of MyLyrics requires MediaPortal 1.7.0</Message>
+            <Name>MediaPortal</Name>
+          </DependencyItem>
+          <DependencyItem>
+            <Type>Skin</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>4</Minor>
+              <Build>0</Build>
+              <Revision>0</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>4</Minor>
+              <Build>0</Build>
+              <Revision>0</Revision>
+            </MaxVersion>
+            <WarnOnly>true</WarnOnly>
+            <Message>requires Skin version 1.4.0.0 to 1.4.0.0.</Message>
+            <Name>Skin</Name>
+          </DependencyItem>
+          <DependencyItem>
+            <Type>Installer</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>9</Minor>
+              <Build>0</Build>
+              <Revision>0</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>99</Minor>
+              <Build>999</Build>
+              <Revision>999</Revision>
+            </MaxVersion>
+            <WarnOnly>true</WarnOnly>
+            <Message>requires Installer version 1.8.0.0 to 1.99.999.999.</Message>
+            <Name>Installer</Name>
+          </DependencyItem>
+        </Items>
+      </Dependencies>
+      <PluginDependencies>
+        <Items />
+      </PluginDependencies>
+      <GeneralInfo>
+        <Name>MyLyrics</Name>
+        <Id>acdc23fa-19b4-4867-bf25-176e79753869</Id>
+        <Author>yoavain</Author>
+        <HomePage>http://wiki.team-mediaportal.com/1_MEDIAPORTAL_1/17_Extensions/3_Plugins/MyLyrics</HomePage>
+        <ForumPage>http://forum.team-mediaportal.com/my-lyrics-plugin-163/</ForumPage>
+        <UpdateUrl>https://raw.githubusercontent.com/yoavain/mediaportal-mylyrics/master/scripts/MyLyrics.xml</UpdateUrl>
+        <Version>
+          <Major>2</Major>
+          <Minor>2</Minor>
+          <Build>1</Build>
+          <Revision>284</Revision>
+        </Version>
+        <ExtensionDescription>MyLyrics displays the lyric of the currently played song inside MediaPortal.
+
+The plugin can show LRC's and plain lyrics. It uses both musictags and online searches to find lyrics.
+</ExtensionDescription>
+        <VersionDescription>Release notes to MyLyrics 2.2.1
+
+Move to GitHub
+Compatibility for 1.11 Final and above
+
+
+Release notes to MyLyrics 2.2.0
+
+Compatibility for 1.10 Final and above
+
+Release notes to MyLyrics 2.1.0
+
+Compatibility for 1.9 Final
+
+Release notes to MyLyrics 2.0.0
+
+Compatibility for 1.8 Final
+
+Release notes to MyLyrics 1.9.8
+
+Compatibility for 1.8 Pre-Release
+
+Release notes to MyLyrics 1.9.7
+
+Compatibility for 1.7 Final /1.7.1 HotFix
+
+Release notes to MyLyrics 1.9.5
+
+Compatibility for 1.7 Pre
+
+
+Release notes to MyLyrics 1.9.1
+
+Fixed issue with unicode characters
+
+
+Release notes to MyLyrics 1.9.0
+
+MediaPortal 1.6 compatibility
+
+
+Release notes to MyLyrics 1.8.0
+
+Change log since 1.7.3:
+Reworked everything. All lyrics search sites are now implementing a common interface. An abstract site class now handles timings and common stuff. Site implementation now only has to do the specific site things such as the parsing. GUI is dynamically created according to the number of active implementations. Site implementation now also responsible of the search categories, i.e. in which search priority to enable it when in Lyrics mode.
+(Sorry if the previous paragraph was too low level)
+The reason for doing such a work, which was practically rewriting almost everything, is this: Adding a new search site was hell, but now the effort is very very small. Since sites often change, there's a need to be able to disable a site by changing a single word in code, and not by searching all the places it is being used (GUI, configuration, etc.)
+Other changes:
+- Added skin files for Default 4:3
+- Added www.lyrster.com (took 1 hour now with the new interface ;) )
+- Added www.ViewLyrics.com
+- Added www.lyricsmode.com
+- Added www.lyrics.net
+- Changed Shironet to only work on Hebrew artists/titles.
+- Removed LyricsPluginSite
+- Removed HotLyrics
+- Removed LyricWiki
+- Fixed progress bar in batch search. 2 step progress bar: First for counting candidate songs for search, the second for the search itself (The reason the first is not filling till the end is because looping over all artists and all songs does not total to the number of songs due to "various" or missing titles…)
+- Removed any hardcoded references to GUILocalizeStrings.
+- Update #Play.Current.Lyrics on lyrics found
+- Some GUI overhaul done. Fixed a few inconsistencies.
+- Fix URL in about tab (and remove the use of IE. Now calls default browser)
+- Start using the correct configuration file (the MediaPortal.xml from ProgramData and not Program Files)
+- Change logger to print nicer.
+- Split About tab into 2 tabs: About &amp; Help. About now contains list of supported sites, and credits section
+- Implement required changes for MPTagThat, so that it can use latest LyricsEngine from plugin.
+- Added Lyrics by site counter to batch search in the message box
+- Separated import from music tags and export to music tags (to be more readable)
+- Fixed stack overflow issue that caused MediaPortal to crash
+
+Change log since 1.7.2:
+- Fixed Lyrics007 (rewritten)
+
+Change log since 1.7.1:
+- Fixed LRC finder
+- Fixed Shironet parser
+
+Change log since 1.7.0:
+- Version is compatible with MP 1.4.0 Final or higher
+
+MyLyrics displays the lyric of the currently played song inside MediaPortal.
+The plugin can show LRC's and plain lyrics. It uses both musictags and online searches to find lyrics. 
+
+Basic features:
+- Dynamic search for the lyric (both LRC's and plain lyrics) to the currently played music file.
+- Browse your music database and select the songs to which you want to find lyrics.
+- Batch search for lyrics matching songs in music database.
+- Search single title and select amoung lyrics from various lyrics sites.
+- Add/delete/edit lyrics and save changes in lyrics databases.
+- Import/export lyrics to/from music tags.
+- Include lyrics from the Internet, musictags, text- and lrc-files.
+- Create a LRC from a basic lyric on the fly and share it with the community.
+
+Keys:
+- E key (or '0' button on remote): Toggle between lyric and editor screen.
+- P key: Toggle between LRC and LRC Pick screen.
+- F key: Toggle between LRC and lyric mode. In lyric mode a new online search starts.
+- S key: Increase the vertical scroll speed in scroll mode. A total of six speed available.
+- Numeric keys (or left or right on remote) to select among various LRC's on LRC Pick screen
+- Enter key (or 'OK' or '#' on remote): Tag line in LRC editor mode.
+- Backslash key (or '*' on remote): Delete the last tagged line in LRC editor mode.
+- F9 (or info button on remote): Shows context menu
+
+Screens:
+- Lyric: shows lyric with coverart on the right.
+  (Two sub modes for both Lyrics basic and Lyrics wide: static (default) or scroll mode)
+- LRC: shows lrc file and coverart on the right.
+- LRC pick: uses BennieBoy's LRCFinder to select among different matching LRC entries.
+- LRC editor: enables the creation of lrc lyric from a plain lyric.
+- Translation screen. See a translated version of the lyric.
+
+Compatible with MediaPortal 1.4.0
+</VersionDescription>
+        <DevelopmentStatus>Stable</DevelopmentStatus>
+        <OnlineLocation>https://github.com/yoavain/mediaportal-mylyrics/raw/master/builds/MyLyrics-2.2.1.284.MPE1</OnlineLocation>
+        <ReleaseDate>2015-04-01T22:48:46.1006214+03:00</ReleaseDate>
+        <Tags>mylyrics,lyrics,lrcs,music</Tags>
+        <Location>..\builds\MyLyrics-MAJOR.MINOR.BUILD.REVISION.MPE1</Location>
+        <Params>
+          <Items>
+            <SectionParam Name="Online Icon">
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/scripts/icon.bmp</Value>
+              <ValueType>String</ValueType>
+              <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
+            </SectionParam>
+            <SectionParam Name="Configuration file">
+              <Value />
+              <ValueType>Template</ValueType>
+              <Description>The file used to configure the extension.
+ If have .exe extension the will be executed
+ If have .dll extension used like MP plugin configuration</Description>
+            </SectionParam>
+            <SectionParam Name="Online Screenshots">
+              <Value>https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide02.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/DefaultWide03-LRC.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default01.jpg;https://github.com/yoavain/mediaportal-mylyrics/raw/master/Screenshots/Default02.jpg</Value>
               <ValueType>String</ValueType>
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
